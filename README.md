@@ -1,8 +1,12 @@
-Level 1: Build an AI-powered support agent that answers questions about professors using data stored in Pinecone.
+# Prof-Finder-AI
 
-Level 2: Allow users to submit RateMyProfessor links, automatically scrape the reviews, and add them to Pinecone.
+Prof-Finder-AI helps students find the best professors based on course reviews by leveraging AI-generated embeddings. The platform enables users to make informed decisions about professors using detailed review data.
 
-Level 3: Implement a smart search system that provides personalized professor recommendations based on user input.
+Level 1: Built an AI-powered support agent that answers questions about professors using data stored in Pinecone.
+
+Level 2: Allows users to submit RateMyProfessor links, automatically scrape the reviews, and add them to Pinecone.
+
+Level 3: Implements a smart search system that provides personalized professor recommendations based on user input.
 
 Real-Time Embedding: Reviews are embedded using OpenAI for semantic understanding.
 
