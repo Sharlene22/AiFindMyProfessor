@@ -1,35 +1,11 @@
-# Prof-Finder-AI
+Level 1: Build an AI-powered support agent that answers questions about professors using data stored in Pinecone.
+Level 2: Allow users to submit RateMyProfessor links, automatically scrape the reviews, and add them to Pinecone.
+Level 3: Implement a smart search system that provides personalized professor recommendations based on user input.
+Real-Time Embedding: Reviews are embedded using OpenAI for semantic understanding.
+Continuous Updates: New professor data is added dynamically for fresh results.
+Filter Support: Users can filter by course, rating, or teaching style.
+Tailored Results: Suggestions improve as users interact more.
+Minimal UI: Clean, fast interface using Tailwind and Next.js.
+Scalable Design: Built to support many universities and courses.
+Future-Ready: Easy to integrate with academic portals or mobile apps.
 
-Prof-Finder-AI helps students find the best professors based on course reviews by leveraging AI-generated embeddings. The platform enables users to make informed decisions about professors using detailed review data.
-
-Visit: [Prof-Finder-AI](https://ai-rate-my-professor-lemon.vercel.app)
-
-## Preview
-![Prof Finder](preview.png)
-
-## Features
-- **AI-Powered Search**: Find professors by matching embedded reviews.
-- **User-Friendly Interface**: Simple, intuitive search for professor recommendations.
-- **Real-Time Updates**: Instant responses based on input data.
-
-## Technologies Used
-- **Next.js**: Framework for building the web app.
-- **TypeScript**: For type safety.
-- **Tailwind CSS**: For styling.
-- **OpenAI**: To process reviews and generate embeddings.
-- **Pinecone**: For storing and querying embeddings.
-
-## How to Use
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/rafiks7/Prof-Finder-AI.git
-    ```
-2. Install dependencies:
-    ```bash
-    npm install
-    ```
-3. Start the development server:
-    ```bash
-    npm run dev
-    ```
-4. Open your browser and visit `http://localhost:3000` to start using the app.
