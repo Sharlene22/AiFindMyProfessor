@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Thompson",
+        "subject": "Computer Science",
+        "rating": 5,
+        "review": "Dr. Thompson is an amazing professor. Her lectures are clear, and she always makes time to help students during office hours."
+      },
+      {
+        "professor": "Dr. John Rivera",
+        "subject": "Mathematics",
+        "rating": 4,
+        "review": "Dr. Rivera is very knowledgeable, but his exams are tough. Make sure to attend his review sessions."
+      },
+      {
+        "professor": "Dr. Sarah Lee",
+        "subject": "Cybersecurity",
+        "rating": 3,
+        "review": "Dr. Lee knows her stuff, but sometimes her explanations can be confusing. Overall, a decent class."
+      },
+      {
+        "professor": "Dr. Michael Brown",
+        "subject": "Physics",
+        "rating": 2,
+        "review": "Dr. Brown's lectures are hard to follow, and he rarely responds to emails. I struggled in this class."
+      },
+      {
+        "professor": "Dr. Karen Patel",
+        "subject": "Biology",
+        "rating": 5,
+        "review": "Dr. Patel is fantastic! Her passion for biology is contagious, and she makes even difficult topics easy to understand."
+      },
+      {
+        "professor": "Dr. Mark Davis",
+        "subject": "History",
+        "rating": 4,
+        "review": "Dr. Davis is very engaging and brings history to life. His exams are fair, but you need to stay on top of the readings."
+      },
+      {
+        "professor": "Dr. Linda Martinez",
+        "subject": "Chemistry",
+        "rating": 1,
+        "review": "Dr. Martinez's lectures are disorganized, and her grading is inconsistent. I wouldn't recommend her class."
+      },
+      {
+        "professor": "Dr. Steven Taylor",
+        "subject": "Psychology",
+        "rating": 5,
+        "review": "Dr. Taylor is awesome! He makes psychology fascinating and is always willing to help students. One of the best professors I've had."
+      },
+      {
+        "professor": "Dr. Rachel Morgan",
+        "subject": "English Literature",
+        "rating": 4,
+        "review": "Dr. Morgan is very knowledgeable and provides great feedback on essays. Her class is challenging but rewarding."
+      },
+      {
+        "professor": "Dr. James Wilson",
+        "subject": "Economics",
+        "rating": 2,
+        "review": "Dr. Wilson's lectures are dry, and he moves through the material too quickly. I had a hard time keeping up."
+      },
+      {
+        "professor": "Dr. Elizabeth White",
+        "subject": "Sociology",
+        "rating": 5,
+        "review": "Dr. White is passionate about sociology and really cares about her students. Her classes are both informative and enjoyable."
+      },
+      {
+        "professor": "Dr. Charles Green",
+        "subject": "Philosophy",
+        "rating": 3,
+        "review": "Dr. Green's class is interesting, but his grading is strict. Be prepared to think deeply and write a lot."
+      },
+      {
+        "professor": "Dr. Angela Carter",
+        "subject": "Political Science",
+        "rating": 4,
+        "review": "Dr. Carter is an excellent professor who encourages discussion and critical thinking. Her lectures are engaging and informative."
+      },
+      {
+        "professor": "Dr. David Moore",
+        "subject": "Statistics",
+        "rating": 2,
+        "review": "Dr. Moore's explanations are confusing, and his homework is overwhelming. I struggled to understand the material."
+      },
+      {
+        "professor": "Dr. Susan Harris",
+        "subject": "Art History",
+        "rating": 5,
+        "review": "Dr. Harris is incredibly passionate about art history and shares that enthusiasm with her students. Her class is both fun and educational."
+      },
+      {
+        "professor": "Dr. Kevin Young",
+        "subject": "Environmental Science",
+        "rating": 4,
+        "review": "Dr. Young's class is well-structured, and he provides real-world examples that make the material more relatable. His exams are fair."
+      },
+      {
+        "professor": "Dr. Barbara Scott",
+        "subject": "French",
+        "rating": 3,
+        "review": "Dr. Scott's class is challenging, but she is very supportive. Be prepared to participate a lot in French."
+      },
+      {
+        "professor": "Dr. Robert Evans",
+        "subject": "Anthropology",
+        "rating": 4,
+        "review": "Dr. Evans is knowledgeable and brings a lot of interesting perspectives to the subject. His class is well worth taking."
+      },
+      {
+        "professor": "Dr. Jessica Hill",
+        "subject": "Business Management",
+        "rating": 5,
+        "review": "Dr. Hill is one of the best professors I've had. She brings real-world experience into the classroom, and her lectures are always interesting."
+      },
+      {
+        "professor": "Dr. Frank Ramirez",
+        "subject": "Accounting",
+        "rating": 3,
+        "review": "Dr. Ramirez knows his subject well, but his teaching style can be dry. The material is challenging, but he provides good resources."
+      }
+    ]
+  }
+  
